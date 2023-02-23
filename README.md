@@ -1,8 +1,15 @@
-### Introduction
+### 🐧Introduction 🇵🇹 
+Hi there, I'm a game developer from Portugal! I started developing in Roblox when I was 12 years old and have now been developing for 9 years! I've been working as a game programmer since 2021 and keep pushing myself to become the best developer possible! I have game development experience with Unity, Roblox Studio and Unreal Engine.
 
-### Tech
+### 🛠️ Tech
+<p float="left">
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" />
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+</p>
 
-### Programming Languages
+### 💻 Programming Languages
 
 <p float="left">
 <img width="50px" display="inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />               
@@ -10,10 +17,6 @@
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" />
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </p>
-<img width="50px" display="inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />               
-<img width="50px" display="inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />              
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" />
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
           
 ### 📈 Some Statistics
 ![Prooheckcps's github stats](https://github-readme-stats.vercel.app/api?username=prooheckcp&show_icons=true&theme=tokyonight)

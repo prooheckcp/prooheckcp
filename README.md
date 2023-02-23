@@ -15,6 +15,7 @@ You can find all about my professional and personal experiences in my website: h
 
 ### 🛠️ Tech
 <p float="left">
+<img width="50px" src="https://cdn.sanity.io/images/kfx9bih3/production/b587bce0ac9ab086bece589b648c8fbead2a0fe5-600x600.png"/>
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" />
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />

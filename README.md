@@ -5,6 +5,10 @@
 ### Programming Languages
 <i class="devicon-lua-plain colored"></i>
 <i class="devicon-javascript-plain colored"></i>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
+          
 ### 📈 Some Statistics
 ![Prooheckcps's github stats](https://github-readme-stats.vercel.app/api?username=prooheckcp&show_icons=true&theme=tokyonight)
 ![Prooheckcps's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prooheckcp&theme=tokyonight&layout=compact)

@@ -1,5 +1,5 @@
 ### 📞Contact Me
-https://img.shields.io/twitter/url?color=lightgrey&label=prooheckcp&style=social&url=https%3A%2F%2Ftwitter.com%2FProoheckcp
+<img src="https://img.shields.io/twitter/url?color=lightgrey&label=prooheckcp&style=social&url=https%3A%2F%2Ftwitter.com%2FProoheckcp" />
 
 ### 📈 Some Statistics
 ![Prooheckcps's github stats](https://github-readme-stats.vercel.app/api?username=prooheckcp&show_icons=true&theme=tokyonight)

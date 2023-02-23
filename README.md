@@ -3,11 +3,11 @@
 ### Tech
 
 ### Programming Languages
-<i class="devicon-lua-plain colored"></i>
-<i class="devicon-javascript-plain colored"></i>
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-<img width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />          
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" />
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
           
 ### 📈 Some Statistics
 ![Prooheckcps's github stats](https://github-readme-stats.vercel.app/api?username=prooheckcp&show_icons=true&theme=tokyonight)

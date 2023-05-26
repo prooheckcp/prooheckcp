@@ -36,11 +36,13 @@ You can find all about my professional and personal experiences in my website: h
 ![Prooheckcps's github stats](https://github-readme-stats.vercel.app/api?username=prooheckcp&show_icons=true&theme=tokyonight)
 ![Prooheckcps's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prooheckcp&theme=tokyonight&layout=compact)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=prooheckcp&theme=tokyonight" alt="mystreak"/>
-          
+    
+[![wakatime](https://wakatime.com/badge/user/abac67d0-0235-467c-ae23-276308f1f014.svg)](https://wakatime.com/@abac67d0-0235-467c-ae23-276308f1f014)   
+ 
+ <figure><embed src="https://wakatime.com/share/@prooheckcp/647e596f-1e73-467c-9116-29ad3e823d59.svg"></embed></figure>
+ 
 ### 📞Contact Me
 <a href="https://twitter.com/prooheckcp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prooheckcp" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vasco-miguel-veenstra-soares-564682194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vasco-miguel-veenstra-soares-564682194/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/prooheckcp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="prooheckcp" height="30" width="40" /></a>
 </p>
-
-[![wakatime](https://wakatime.com/badge/user/abac67d0-0235-467c-ae23-276308f1f014.svg)](https://wakatime.com/@abac67d0-0235-467c-ae23-276308f1f014)

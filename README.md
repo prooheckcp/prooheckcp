@@ -36,10 +36,9 @@ You can find all about my professional and personal experiences in my website: h
 ![Prooheckcps's github stats](https://github-readme-stats.vercel.app/api?username=prooheckcp&show_icons=true&theme=tokyonight)
 ![Prooheckcps's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prooheckcp&theme=tokyonight&layout=compact)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=prooheckcp&theme=tokyonight" alt="mystreak"/>
-    
-[![wakatime](https://wakatime.com/badge/user/abac67d0-0235-467c-ae23-276308f1f014.svg)](https://wakatime.com/@abac67d0-0235-467c-ae23-276308f1f014)   
+ ![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=prooheckcp&theme=tokyonight)   
  
-![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=prooheckcp&theme=tokyonight)
+[![wakatime](https://wakatime.com/badge/user/abac67d0-0235-467c-ae23-276308f1f014.svg)](https://wakatime.com/@abac67d0-0235-467c-ae23-276308f1f014)   
  
 ### 📞Contact Me
 <a href="https://twitter.com/prooheckcp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prooheckcp" height="30" width="40" /></a>

@@ -39,6 +39,8 @@ You can find all about my professional and personal experiences in my website: h
     
 [![wakatime](https://wakatime.com/badge/user/abac67d0-0235-467c-ae23-276308f1f014.svg)](https://wakatime.com/@abac67d0-0235-467c-ae23-276308f1f014)   
  
+ ![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=prooheckcp&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+ 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@prooheckcp/06919a20-2c55-47a9-b709-8e73c8f8b992.png" /></a>
  
 ### 📞Contact Me

@@ -39,10 +39,7 @@ You can find all about my professional and personal experiences in my website: h
     
 [![wakatime](https://wakatime.com/badge/user/abac67d0-0235-467c-ae23-276308f1f014.svg)](https://wakatime.com/@abac67d0-0235-467c-ae23-276308f1f014)   
  
- <figure><embed src="https://wakatime.com/share/@prooheckcp/647e596f-1e73-467c-9116-29ad3e823d59.svg"></embed></figure>
- 
- .. image:: https://wakatime.com/share/@prooheckcp/06919a20-2c55-47a9-b709-8e73c8f8b992.png
-    :target: https://wakatime.com/
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@prooheckcp/06919a20-2c55-47a9-b709-8e73c8f8b992.png" /></a>
  
 ### 📞Contact Me
 <a href="https://twitter.com/prooheckcp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prooheckcp" height="30" width="40" /></a>

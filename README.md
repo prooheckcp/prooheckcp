@@ -1,17 +1,15 @@
 ### 🐧Introduction 🇵🇹 
-Hi there, I'm a game developer from Portugal! I started developing in Roblox when I was 12 years old and have now been developing for 9 years! I've been working as a game programmer since 2021 and keep pushing myself to become the best developer possible! I have game development experience with Unity, Roblox Studio and Unreal Engine.
-
-<img width="350px" src="https://cdn.discordapp.com/attachments/670023265455964198/1078449995113578556/RoChess_Thumbnail_Orange.png" />
+Hi there, I'm a game developer from Portugal! I started developing in Roblox when I was 12 years old and have now been developing for 9 years! I've been working as a game programmer since 2021 and keep pushing myself to become the best developer possible! I have game development experience with Unity, Roblox Studio, and Unreal Engine.
 
 ### 🎓 Education
 #### IADE - Creative University
-Bachelor's degree in Game and Apps Developement
+Bachelor's degree in Game and Apps development
 
 #### University of Bradford
 Erasmus in Computer Science
 
 ### 🍩 Work
-You can find all about my professional and personal experiences in my website: https://www.prooheckcp.com/
+You can find all about my professional and personal experiences on my website: https://www.prooheckcp.com/
 
 ### 🛠️ Tech
 <p float="left">

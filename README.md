@@ -1,6 +1,9 @@
-### 🐧Introduction 🇵🇹 
+## 🐧Introduction 🇵🇹 
 ![line](https://user-images.githubusercontent.com/57281769/139474820-48edd3b4-3025-4ac6-abd0-d1c9b4fb2b5f.png)
+
 Hi there, I'm a game developer from Portugal! I started developing in Roblox when I was 12 years old and have now been developing for 9 years! I've been working as a game programmer since 2021 and keep pushing myself to become the best developer possible! I have game development experience with Unity, Roblox Studio, and Unreal Engine.
+
+![line](https://user-images.githubusercontent.com/57281769/139474820-48edd3b4-3025-4ac6-abd0-d1c9b4fb2b5f.png)
 
 ## 🎓 Education
 #### IADE - Creative University

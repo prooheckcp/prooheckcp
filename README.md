@@ -32,10 +32,10 @@ You can find all about my professional and personal experiences on my website: h
 ## 💻 Programming Languages
 
 <p float="left">
-<img width="50px" display="inline-block" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd9Hm6YzVDnc31jkaaU3Wej-CaUeWXD4ljOw&s" />   
-<img width="50px" display="inline-block" src="https://static.wikia.nocookie.net/roblox/images/a/af/Luau.png/revision/latest?cb=20230210233439" />               
-<img width="50px" display="inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />              
+<img width="50px" display="inline-block" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/760px-C_Programming_Language.svg.png?20201031132917" />   
+<img width="50px" display="inline-block" src="https://static.wikia.nocookie.net/roblox/images/a/af/Luau.png/revision/latest?cb=20230210233439" />       
 <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1920px-Lua-Logo.svg.png" />
+<img width="50px" display="inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />              
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </p>
           

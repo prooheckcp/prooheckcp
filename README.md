@@ -32,7 +32,8 @@ You can find all about my professional and personal experiences on my website: h
 ## 💻 Programming Languages
 
 <p float="left">
-<img width="50px" display="inline-block" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/760px-C_Programming_Language.svg.png?20201031132917" />   
+<img width="50px" display="inline-block" src="[https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg)" /> 
+<img width="50px" display="inline-block" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />      
 <img width="50px" display="inline-block" src="https://static.wikia.nocookie.net/roblox/images/a/af/Luau.png/revision/latest?cb=20230210233439" />       
 <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1920px-Lua-Logo.svg.png" />
 <img width="50px" display="inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />              
@@ -40,11 +41,11 @@ You can find all about my professional and personal experiences on my website: h
 </p>
           
 ## 📈 Some Statistics
-![Prooheckcps's github stats](https://github-readme-stats.vercel.app/api?username=prooheckcp&show_icons=true&theme=tokyonight)
+<figure><embed src="https://wakatime.com/share/@prooheckcp/8795d303-6edd-4b40-92d1-57199c58cd86.svg"></embed></figure>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=prooheckcp&theme=tokyonight" alt="mystreak"/>
- ![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=prooheckcp&theme=tokyonight&layout=compact)   
- 
+
 [![wakatime](https://wakatime.com/badge/user/abac67d0-0235-467c-ae23-276308f1f014.svg)](https://wakatime.com/@abac67d0-0235-467c-ae23-276308f1f014)   
+
  
 ## 📞Contact Me
 <a href="https://twitter.com/prooheckcp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prooheckcp" height="30" width="40" /></a>

@@ -10,11 +10,14 @@ I have game development experience with Unity, Roblox Studio, and Unreal Engine.
 ![line](https://user-images.githubusercontent.com/57281769/139474820-48edd3b4-3025-4ac6-abd0-d1c9b4fb2b5f.png)
 
 ## 🎓 Education
-#### IADE - Creative University
-Bachelor's degree in Game and Apps development
+### Bachelor's Degree - Game and Apps Development
+IADE - Creative University
 
-### University of Bradford
-Erasmus in Computer Science
+### Exhange Student - Computer Science
+University of Bradford
+
+### Master's Degree - Information Science and Engineering
+Ritsumeikan University
 
 ## 🍩 Work
 You can find all about my professional and personal experiences on my website: https://www.prooheckcp.com/
@@ -41,7 +44,7 @@ You can find all about my professional and personal experiences on my website: h
 </p>
           
 ## 📈 Some Statistics
-<figure><embed src="https://wakatime.com/share/@prooheckcp/8795d303-6edd-4b40-92d1-57199c58cd86.svg"></embed></figure>
+![WakaTime Stats](https://wakatime.com/share/@prooheckcp/f7486bf1-023d-48de-b6e7-da493aab43c2.svg)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=prooheckcp&theme=tokyonight" alt="mystreak"/>
 
 [![wakatime](https://wakatime.com/badge/user/abac67d0-0235-467c-ae23-276308f1f014.svg)](https://wakatime.com/@abac67d0-0235-467c-ae23-276308f1f014)   

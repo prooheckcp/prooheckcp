@@ -44,7 +44,9 @@ You can find all about my professional and personal experiences on my website: h
 </p>
           
 ## 📈 Some Statistics
-![WakaTime Stats](https://wakatime.com/share/@prooheckcp/f7486bf1-023d-48de-b6e7-da493aab43c2.svg)
+<p align="center">
+  <img src="https://wakatime.com/share/@prooheckcp/836c0690-cdf9-47b9-a9eb-569bc5da47f2.svg" width="500">
+</p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=prooheckcp&theme=tokyonight" alt="mystreak"/>
 
 [![wakatime](https://wakatime.com/badge/user/abac67d0-0235-467c-ae23-276308f1f014.svg)](https://wakatime.com/@abac67d0-0235-467c-ae23-276308f1f014)   

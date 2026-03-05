@@ -32,7 +32,7 @@ You can find all about my professional and personal experiences on my website: h
 ## 💻 Programming Languages
 
 <p float="left">
-<img width="50px" display="inline-block" src="[https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg)" /> 
+<img width="50px" display="inline-block" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" /> 
 <img width="50px" display="inline-block" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />      
 <img width="50px" display="inline-block" src="https://static.wikia.nocookie.net/roblox/images/a/af/Luau.png/revision/latest?cb=20230210233439" />       
 <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1920px-Lua-Logo.svg.png" />

@@ -13,26 +13,11 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vasco-soares-564682194/" style="text-decoration:none;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-         height="32" width="32"
-         alt="LinkedIn"
-        />
-  </a>
+  <a href="https://www.linkedin.com/in/vasco-soares-564682194/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="32" width="32" alt="LinkedIn" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/prooheckcp" style="text-decoration:none;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/x.svg"
-         height="32" width="32"
-         alt="X"
-        />
-  </a>
+  <a href="https://x.com/prooheckcp"><img src="https://wsrv.nl/?url=wsrv.nl%2F%3Furl%3Dcdn.simpleicons.org%252Fx%252Fwhite%26w%3D60%26h%3D60%26fit%3Dinside%26output%3Dpng&w=96&h=96&fit=contain&cbg=24292f&bg=24292f&we&output=png" height="32" width="32" alt="X" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/c/prooheckcp" style="text-decoration:none;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-         height="32" width="32"
-         alt="YouTube"
-         />
-  </a>
+  <a href="https://www.youtube.com/c/prooheckcp"><img src="https://cdn.simpleicons.org/youtube" height="32" width="32" alt="YouTube" /></a>
 </p>
 
 ---
@@ -134,13 +119,7 @@ I've contributed to game experiences for **FIFA**, **Paramount**, **Samsung**, *
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
-      <a href="https://www.ritsumei.ac.jp/">
-        <img
-          src="https://www.ritsumei.ac.jp/common/images_j/common/site_logo.png"
-          height="58"
-          alt="Ritsumeikan University logo"
-        />
-      </a>
+      <a href="https://www.ritsumei.ac.jp/"><img src="https://wsrv.nl/?url=wsrv.nl%2F%3Furl%3Dhttps%253A%252F%252Fwww.ritsumei.ac.jp%252Fcommon%252Fimages_j%252Fcommon%252Fsite_logo.png%26h%3D92%26w%3D240%26fit%3Dinside%26bg%3Dwhite%26output%3Dpng&h=116&w=280&fit=contain&cbg=white&we&output=png" height="58" alt="Ritsumeikan University logo" /></a>
       <br />
       <strong>Ritsumeikan University 🇯🇵</strong>
       <br />
@@ -151,13 +130,7 @@ I've contributed to game experiences for **FIFA**, **Paramount**, **Samsung**, *
       <sub>September 2025–Present · Osaka, Japan</sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <a href="https://www.iade.europeia.pt/">
-        <img
-          src="https://prowly-prod.s3.eu-west-1.amazonaws.com/uploads/landing_page/template_background/219892/93465e3e0f78f837c64588aecf2b8efe.jpg"
-          height="58"
-          alt="IADE Creative University logo"
-        />
-      </a>
+      <a href="https://www.iade.europeia.pt/"><img src="https://wsrv.nl/?url=wsrv.nl%2F%3Furl%3Dhttps%253A%252F%252Fprowly-prod.s3.eu-west-1.amazonaws.com%252Fuploads%252Flanding_page%252Ftemplate_background%252F219892%252F93465e3e0f78f837c64588aecf2b8efe.jpg%26h%3D92%26w%3D240%26fit%3Dinside%26bg%3Dwhite%26output%3Dpng&h=116&w=280&fit=contain&cbg=white&we&output=png" height="58" alt="IADE Creative University logo" /></a>
       <br />
       <strong>IADE – Creative University 🇵🇹</strong>
       <br />
@@ -168,14 +141,7 @@ I've contributed to game experiences for **FIFA**, **Paramount**, **Samsung**, *
       <sub>September 2019–January 2022 · First Class Honours</sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <a href="https://www.bradford.ac.uk/">
-        <img
-          src="https://play-lh.googleusercontent.com/P8DyOyHAupEqwz1-4X4S-zsjxhlq4GTShiuNdvO-35GdAOzCSqMM4M3qL54QPNCUveWPStHayWYmDbjeOzc22A%3Ds0-br30"
-          height="58"
-          width="58"
-          alt="University of Bradford logo"
-        />
-      </a>
+      <a href="https://www.bradford.ac.uk/"><img src="https://wsrv.nl/?url=wsrv.nl%2F%3Furl%3Dhttps%253A%252F%252Fplay-lh.googleusercontent.com%252FP8DyOyHAupEqwz1-4X4S-zsjxhlq4GTShiuNdvO-35GdAOzCSqMM4M3qL54QPNCUveWPStHayWYmDbjeOzc22A%25253Ds0-br30%26h%3D92%26w%3D240%26fit%3Dinside%26bg%3Dwhite%26output%3Dpng&h=116&w=280&fit=contain&cbg=white&we&output=png" height="58" alt="University of Bradford logo" /></a>
       <br />
       <strong>University of Bradford 🇬🇧</strong>
       <br />

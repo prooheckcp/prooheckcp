@@ -13,16 +13,25 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vasco-soares-564682194/">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="32" width="32" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/vasco-soares-564682194/" style="text-decoration:none;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+         height="32" width="32"
+         alt="LinkedIn"
+        />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/prooheckcp">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/x.svg" height="32" width="32" alt="X" />
+  <a href="https://x.com/prooheckcp" style="text-decoration:none;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/x.svg"
+         height="32" width="32"
+         alt="X"
+        />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/c/prooheckcp">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="32" width="32" alt="YouTube" />
+  <a href="https://www.youtube.com/c/prooheckcp" style="text-decoration:none;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
+         height="32" width="32"
+         alt="YouTube"
+         />
   </a>
 </p>
 
@@ -103,6 +112,7 @@ Developed branded Roblox games and gameplay systems for clients including **Para
 
 ## 🏆 Awards & Recognition
 
+- **2026 — Roblox Innovation Awards:** Best Sports Game for *FIFA Super Soccer*.
 - **2025 — Webby Award:** Best Partnership or Collaboration, AI, Immersive & Games, for *Paramount + GameFam: First-ever playable story on Roblox for Tales of the TMNT*. [Award page](https://winners.webbyawards.com/2025/ai-immersive-games/immersive-features/best-partnership-or-collaboration/334527/paramount--gamefam--firstever-playable-story-on-roblox-for-tales-of-the-tmnt)
 - **2024 — Digiday Awards:** Best Metaverse Marketing Campaign for *TMNT Battle Tycoon*. [Announcement](https://www.linkedin.com/posts/ricardo-briceno_media-marketing-advertising-activity-7260327652798939137-Dhgq)
 - **2023 — Kidscreen Awards:** Best Branded Game for *Nickverse*.
@@ -125,9 +135,13 @@ I've contributed to game experiences for **FIFA**, **Paramount**, **Samsung**, *
   <tr>
     <td align="center" valign="top" width="33%">
       <a href="https://www.ritsumei.ac.jp/">
-        <img src="https://www.ritsumei.ac.jp/common/images_j/common/site_logo.png" height="58" alt="Ritsumeikan University logo" />
+        <img
+          src="https://www.ritsumei.ac.jp/common/images_j/common/site_logo.png"
+          height="58"
+          alt="Ritsumeikan University logo"
+        />
       </a>
-      <br /><br />
+      <br />
       <strong>Ritsumeikan University 🇯🇵</strong>
       <br />
       Master's Degree
@@ -138,9 +152,13 @@ I've contributed to game experiences for **FIFA**, **Paramount**, **Samsung**, *
     </td>
     <td align="center" valign="top" width="33%">
       <a href="https://www.iade.europeia.pt/">
-        <img src="https://images.seeklogo.com/logo-png/20/1/iade-logo-png_seeklogo-204907.png" height="58" alt="IADE Creative University logo" />
+        <img
+          src="https://prowly-prod.s3.eu-west-1.amazonaws.com/uploads/landing_page/template_background/219892/93465e3e0f78f837c64588aecf2b8efe.jpg"
+          height="58"
+          alt="IADE Creative University logo"
+        />
       </a>
-      <br /><br />
+      <br />
       <strong>IADE – Creative University 🇵🇹</strong>
       <br />
       Bachelor's Degree
@@ -151,9 +169,14 @@ I've contributed to game experiences for **FIFA**, **Paramount**, **Samsung**, *
     </td>
     <td align="center" valign="top" width="33%">
       <a href="https://www.bradford.ac.uk/">
-        <img src="https://images.seeklogo.com/logo-png/25/1/university-of-bradford-2014-logo-png_seeklogo-256171.png" height="58" alt="University of Bradford logo" />
+        <img
+          src="https://play-lh.googleusercontent.com/P8DyOyHAupEqwz1-4X4S-zsjxhlq4GTShiuNdvO-35GdAOzCSqMM4M3qL54QPNCUveWPStHayWYmDbjeOzc22A%3Ds0-br30"
+          height="58"
+          width="58"
+          alt="University of Bradford logo"
+        />
       </a>
-      <br /><br />
+      <br />
       <strong>University of Bradford 🇬🇧</strong>
       <br />
       Exchange Student

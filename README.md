@@ -24,19 +24,19 @@
 
 ## 👨‍💻 About Me
 
-I'm a Portuguese software engineer and machine learning researcher at **Ritsumeikan University**. My research interests include reinforcement learning, LLMs, agent environments and simulators, AI benchmarks, game-playing agents, and world models. I bring 5+ years of professional games-industry experience, building gameplay systems, reusable libraries, and player-facing features.
+I'm a Portuguese software engineer and machine learning researcher in the RICE Lab at **Ritsumeikan University**. My research interests include reinforcement learning, LLMs, agent environments and simulators, AI benchmarks, game-playing agents, and world models. I bring 5+ years of professional games-industry experience, building gameplay systems, reusable libraries, and player-facing features.
 
 ## 🔬 Research & Publication
 
-**[BlindPath: A Partially Observable LLM Navigation Benchmark](https://github.com/prooheckcp/BlindPath)** — First-author paper accepted at **IFIP ICEC 2026**.
+**[BlindPath: A Partially Observable LLM Navigation Benchmark](https://github.com/prooheckcp/BlindPath)** — First-author paper with Mudit Paliwal, Ibrahim Khan, and Ruck Thawonmas, presented at **IFIP ICEC 2026** in Paris, France (October 2026).
 
 ## 💼 Professional Experience
 
-**Senior Game Programmer · GameFam** — *February 2023–Present*  
-Built reusable development tools and led engineering for projects including **TMNT Battle Tycoon** and **Cirque du Soleil**, with additional work on **NFL Tycoon** and **FIFA Super Soccer**.
+**Senior Game Programmer · Gamefam** — *February 2023–Present*  
+Built reusable libraries and development tools, gameplay systems (quests, battle passes, combat, NPC behavior), and LiveOps, and led engineering for projects including **TMNT Battle Tycoon** and **Cirque du Soleil Tycoon**, with additional work on **Car Dealership Tycoon**, **War Rivals**, **Super NFL Tycoon**, and **FIFA Super Soccer**.
 
-**Game Programmer · Dubit** — *April 2021–February 2023*  
-Developed branded Roblox games and gameplay systems for clients including **Paramount**, **Samsung**, **L.O.L. Surprise!**, and **MilkPEP**.
+**Gameplay Programmer · Dubit** — *April 2021–February 2023*  
+Developed branded Roblox games, gameplay systems (shops, quests), and Roact UI for clients including **Paramount**, **Samsung**, **L.O.L. Surprise!**, and **MilkPEP**.
 
 ## 🛠️ Technologies & Skills
 
@@ -97,20 +97,21 @@ Developed branded Roblox games and gameplay systems for clients including **Para
 
 ## 🏆 Awards & Recognition
 
-- **2026 — Roblox Innovation Awards:** Best Sports Game for *FIFA Super Soccer*.
-- **2025 — Webby Award:** Best Partnership or Collaboration, AI, Immersive & Games, for *Paramount + GameFam: First-ever playable story on Roblox for Tales of the TMNT*. [Award page](https://winners.webbyawards.com/2025/ai-immersive-games/immersive-features/best-partnership-or-collaboration/334527/paramount--gamefam--firstever-playable-story-on-roblox-for-tales-of-the-tmnt)
+- **2026 — Roblox Innovation Awards:** Bloxy for Best Sports Game, won by *FIFA Super Soccer*. [Announcement](https://about.roblox.com/newsroom/2026/09/2026-roblox-innovation-awards)
+- **2026 — Público (P3):** Featured in *Francisco e Vasco criam jogos vencedores no Roblox, a plataforma que Portugal vê como infantil*. [Article](https://www.publico.pt/2026/02/10/p3/noticia/francisco-vasco-criam-jogos-vencedores-roblox-plataforma-portugal-ve-infantil-2163624)
+- **2025 — Webby Award:** Best Partnership or Collaboration, AI, Immersive & Games, for *Paramount + Gamefam: First-ever playable story on Roblox for Tales of the TMNT*. [Award page](https://winners.webbyawards.com/2025/ai-immersive-games/immersive-features/best-partnership-or-collaboration/334527/paramount--gamefam--firstever-playable-story-on-roblox-for-tales-of-the-tmnt)
 - **2024 — Digiday Awards:** Best Metaverse Marketing Campaign for *TMNT Battle Tycoon*. [Announcement](https://www.linkedin.com/posts/ricardo-briceno_media-marketing-advertising-activity-7260327652798939137-Dhgq)
-- **2023 — Kidscreen Awards:** Best Branded Game for *Nickverse*.
-- **2022 — MTV Europe Music Awards:** Best Metaverse Performance nomination for *Charli XCX*.
-- **2021 — PlayStation Talents:** *Mizukura* nominated for Game of the Year.
+- **2023 — Kidscreen Awards:** Best Branded Game for *Nickverse*. [Winners list](https://awards.kidscreen.com/Winners/winner/2023)
+- **2022 — MTV Europe Music Awards:** Best Metaverse Performance nomination for *Charli XCX* in *Samsung Superstar Galaxy*. [Category page](https://en.wikipedia.org/wiki/MTV_Europe_Music_Award_for_Best_Metaverse_Performance)
+- **2021 — PlayStation Talents:** *Mizukura* was one of 11 finalists for Game of the Year. [Announcement](https://pt.ign.com/premios-playstation/110742/news/premios-playstation-talents-vencedores-revelados-amanha)
 
 ## 📜 Certificate
 
-- **Machine Learning Specialization — Stanford University (Coursera).** Coursework covered supervised and unsupervised learning, neural networks, advanced learning algorithms, reinforcement learning, recommender systems, and decision trees. [View certificate](https://www.coursera.org/account/accomplishments/specialization/WOP4VZ7SVCR9)
+- **Machine Learning Specialization — Stanford University (Coursera), April 2025.** Coursework covered supervised and unsupervised learning, neural networks, advanced learning algorithms, reinforcement learning, recommender systems, and decision trees. [View certificate](https://www.coursera.org/account/accomplishments/specialization/WOP4VZ7SVCR9)
 
 ## 🎮 Industry Impact
 
-**3B+ visits · 10+ projects · Global brands and franchises**
+**4.3B+ visits · 10+ projects · Global brands and franchises**
 
 I've contributed to game experiences for **FIFA**, **Paramount**, **Samsung**, **L.O.L. Surprise!**, **MilkPEP**, **NFL**, **Teenage Mutant Ninja Turtles (TMNT)**, **Cirque du Soleil**, and **Nickverse/Nickelodeon**.
 
@@ -127,7 +128,7 @@ I've contributed to game experiences for **FIFA**, **Paramount**, **Samsung**, *
       <br />
       Information Science and Engineering
       <br />
-      <sub>September 2025–Present · Osaka, Japan</sub>
+      <sub>September 2025–Present · Osaka, Japan · GPA 4.6/5.0</sub>
     </td>
     <td align="center" valign="top" width="33%">
       <a href="https://www.iade.europeia.pt/"><img src="https://wsrv.nl/?url=wsrv.nl%2F%3Furl%3Dhttps%253A%252F%252Fprowly-prod.s3.eu-west-1.amazonaws.com%252Fuploads%252Flanding_page%252Ftemplate_background%252F219892%252F93465e3e0f78f837c64588aecf2b8efe.jpg%26h%3D92%26w%3D240%26fit%3Dinside%26bg%3Dwhite%26output%3Dpng&h=116&w=280&fit=contain&cbg=white&we&output=png" height="58" alt="IADE Creative University logo" /></a>
@@ -136,9 +137,9 @@ I've contributed to game experiences for **FIFA**, **Paramount**, **Samsung**, *
       <br />
       Bachelor's Degree
       <br />
-      Game and Apps Development
+      Games and Apps Development
       <br />
-      <sub>September 2019–January 2022 · First Class Honours</sub>
+      <sub>September 2019–January 2022 · First Class Honours · GPA 3.8/4.0</sub>
     </td>
     <td align="center" valign="top" width="33%">
       <a href="https://www.bradford.ac.uk/"><img src="https://wsrv.nl/?url=wsrv.nl%2F%3Furl%3Dhttps%253A%252F%252Fplay-lh.googleusercontent.com%252FP8DyOyHAupEqwz1-4X4S-zsjxhlq4GTShiuNdvO-35GdAOzCSqMM4M3qL54QPNCUveWPStHayWYmDbjeOzc22A%25253Ds0-br30%26h%3D92%26w%3D240%26fit%3Dinside%26bg%3Dwhite%26output%3Dpng&h=116&w=280&fit=contain&cbg=white&we&output=png" height="58" alt="University of Bradford logo" /></a>
@@ -158,7 +159,7 @@ I've contributed to game experiences for **FIFA**, **Paramount**, **Samsung**, *
 
 - **Portuguese:** Native / bilingual
 - **English:** Native / bilingual · TOEFL 115/120
-- **Mandarin Chinese:** Basic · HSK 2
+- **Mandarin Chinese:** Basic · HSK 2 (University of Lisbon)
 - **Japanese:** N5
 
 ## 📊 Coding Activity
@@ -181,4 +182,6 @@ I've contributed to game experiences for **FIFA**, **Paramount**, **Samsung**, *
   <a href="https://x.com/prooheckcp">X</a>
   &nbsp; · &nbsp;
   <a href="https://www.youtube.com/c/prooheckcp">YouTube</a>
+  &nbsp; · &nbsp;
+  <a href="https://www.prooheckcp.com/credentials">Credentials</a>
 </p>
